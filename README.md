@@ -1,4 +1,14 @@
-### Israel Moreno - React/Flutter Developer 👋
+# Israel Moreno 👨🏻‍💻 🇲🇽
+
+**Welcome to my github profile :v:**
+
+### About me 
+_I like developing applications and websites.
+The technologies that I have used the most lately have been Flutter and React, I work hard with Dart and JavaScript and of course as every programmer has a preferred language in my case it is **Dart** :stuck_out_tongue_winking_eye:_
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif"/>
+</p>
 
 <!--
 **israel-dv/israel-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
