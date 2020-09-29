@@ -20,11 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-dv&layout=compact" alt="israel-dv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israel-dv&show_icons=true" alt="israel-dv" /></p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif"/>
-</p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=israel-dv&show_icons=true" alt="israel-dv" /></p>
 
 <!--
 **israel-dv/israel-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
