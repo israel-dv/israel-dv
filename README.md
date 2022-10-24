@@ -8,7 +8,7 @@ I'm currently working on [Vest](https://mivest.io). 💼
 
 <hr/>
 
-### This is my current Stack Technology in the I have worked, studied and enjoyed in the las 3 years:
+### My current Technology Stack in which I have worked, studied and enjoyed in the last 3 years 👷🏻
 
 - JavaScript 🧩
 - TypeScript 🏗
@@ -17,7 +17,7 @@ I'm currently working on [Vest](https://mivest.io). 💼
 - React Native 📱
 - Tailwind CSS 🌱
 
-### What else I'm learning Right Now ?
+### What else am I learning Right Now ? 🧠
 
 - Dart 🎯
 - Flutter 🐟
