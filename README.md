@@ -1,26 +1,49 @@
-<h1 align="center">Israel Moreno 👨🏻‍💻 🇲🇽</h1>
-<h3 align="center">Flutter and React developer</h3>
+<style>
+  .image {
+    object-fit: cover;
+    border-radius: 50% 20% / 10% 40%;
+    width: 100%;
+    height: 200px;
+  }
+</style>
 
-- 🔭 I’m currently working on **GIR as Frontend developer**
+<img 
+  src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80'
+  class="image"
+/>
 
-- 🌱 I’m currently learning **React, GraphQL**
+# Israel Moreno 🇲🇽 { Frontend Software Engineer 🧑🏻‍💻 }
 
-- 💬 Ask me about **React and Flutter**
+## Hi 👋🏼 ! Welcome to this GitHub Account.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+I'm a software engineer that enjoy the code, resolve problems and create excellent UI to the users.
 
+I'm currently working on [Vest](https://mivest.io). 💼
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/israeldev_" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="israeldev_" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/israeldev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="israeldev" height="30" width="40" /></a>
-</p>
+<hr/>
 
+### This is my current Stack Technology in the I have worked, studied and enjoyed in the las 3 years:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israel-dv&layout=compact" alt="israel-dv" /></p>
+- JavaScript 🧩
+- TypeScript 🏗
+- React JS ⚛️
+- Next JS △
+- React Native 📱
+- Tailwind CSS 🌱
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=israel-dv&show_icons=true" alt="israel-dv" /></p>
+### What else I'm learning Right Now ?
+
+- Dart 🎯
+- Flutter 🐟
+- GraphQL 🧬
+- How to contribute to Open Source Software 🫱🏼‍🫲🏽
+
+### How to reach me ? 📫
+
+- email 📧 : root@israel-moreno.com
+
+You can check my repositories and surface in them. Thanks for be here ✌🏻
+
 
 <!--
 **israel-dv/israel-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
