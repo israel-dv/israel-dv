@@ -1,15 +1,8 @@
-<style>
-  .image {
-    object-fit: cover;
-    border-radius: 50% 20% / 10% 40%;
-    width: 100%;
-    height: 200px;
-  }
-</style>
-
 <img 
-  src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80'
-  class="image"
+  src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80' 
+  width="100%" 
+  height="250px"
+  style="object-fit: cover; border-radius: 50% 20% / 10% 40%;"
 />
 
 # Israel Moreno 🇲🇽 { Frontend Software Engineer 🧑🏻‍💻 }
