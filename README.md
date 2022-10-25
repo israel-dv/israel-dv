@@ -26,7 +26,7 @@ I'm currently working on [Vest](https://mivest.io). 💼
 
 ### How to reach me ? 📫
 
-- email 📧 : root@israel-moreno.com
+- email 📧 : se.israel.mc@gmail.com
 
 You can check my repositories and surface in them. Thanks for be here ✌🏻
 
